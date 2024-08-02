@@ -1,7 +1,7 @@
 package helper
 
 import (
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type SingleEntityScene struct {

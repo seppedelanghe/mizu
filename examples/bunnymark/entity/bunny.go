@@ -1,6 +1,6 @@
 package entity
 
-import "github.com/sedyh/mizu/examples/bunnymark/component"
+import "github.com/seppedelanghe/mizu/examples/bunnymark/component"
 
 // Bunny object.
 

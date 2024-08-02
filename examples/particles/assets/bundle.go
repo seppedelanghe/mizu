@@ -4,7 +4,7 @@ import (
 	"embed"
 	"image/color"
 
-	"github.com/sedyh/mizu/examples/particles/helper"
+	"github.com/seppedelanghe/mizu/examples/particles/helper"
 )
 
 // This is where the images, colors and gradients are loaded.

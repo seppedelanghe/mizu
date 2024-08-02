@@ -1,10 +1,10 @@
-module github.com/sedyh/mizu/examples/particles
+module github.com/seppedelanghe/mizu/examples/particles
 
 go 1.17
 
 require (
 	github.com/hajimehoshi/ebiten/v2 v2.2.3
-	github.com/sedyh/mizu v1.0.4
+	github.com/seppedelanghe/mizu v1.0.4
 )
 
 require (

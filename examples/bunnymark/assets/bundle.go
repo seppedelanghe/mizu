@@ -4,7 +4,7 @@ import (
 	"embed"
 	"image/color"
 
-	"github.com/sedyh/mizu/examples/bunnymark/helper"
+	"github.com/seppedelanghe/mizu/examples/bunnymark/helper"
 )
 
 // This is where the images, colors and gradients are loaded.

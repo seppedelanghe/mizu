@@ -3,12 +3,12 @@ package scene
 import (
 	"time"
 
-	"github.com/sedyh/mizu/examples/bunnymark/assets"
-	"github.com/sedyh/mizu/examples/bunnymark/component"
-	"github.com/sedyh/mizu/examples/bunnymark/entity"
-	"github.com/sedyh/mizu/examples/bunnymark/helper"
-	"github.com/sedyh/mizu/examples/bunnymark/system"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/bunnymark/assets"
+	"github.com/seppedelanghe/mizu/examples/bunnymark/component"
+	"github.com/seppedelanghe/mizu/examples/bunnymark/entity"
+	"github.com/seppedelanghe/mizu/examples/bunnymark/helper"
+	"github.com/seppedelanghe/mizu/examples/bunnymark/system"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type Game struct{}

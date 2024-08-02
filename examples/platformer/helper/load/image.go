@@ -10,7 +10,7 @@ import (
 	_ "image/png"
 
 	"github.com/hajimehoshi/ebiten/v2"
-	"github.com/sedyh/mizu/examples/platformer/helper/geo"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/geo"
 )
 
 // Image loads the image from filepath and puts it on the GPU.

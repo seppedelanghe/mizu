@@ -1,7 +1,7 @@
 package component
 
 import (
-	"github.com/sedyh/mizu/examples/platformer/helper/graphics"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/graphics"
 )
 
 type Sprite struct {

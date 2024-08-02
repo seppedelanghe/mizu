@@ -26,6 +26,6 @@ Limitations:
 To run the example from sources do the following command:
 
 ```
-go run github.com/sedyh/mizu/examples/platformer@master
+go run github.com/seppedelanghe/mizu/examples/platformer@master
 ```
 <sub>Please remember that @master only works since Go 17.</sub>

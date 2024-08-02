@@ -1,6 +1,6 @@
 package entity
 
-import "github.com/sedyh/mizu/examples/particles/component"
+import "github.com/seppedelanghe/mizu/examples/particles/component"
 
 // A particle that moves by itself after settings are passed to it from the emitter.
 

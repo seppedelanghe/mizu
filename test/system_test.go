@@ -4,8 +4,8 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/sedyh/mizu/pkg/engine"
-	"github.com/sedyh/mizu/test/helper"
+	"github.com/seppedelanghe/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/test/helper"
 )
 
 type Position struct {

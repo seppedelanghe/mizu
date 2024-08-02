@@ -2,7 +2,7 @@ package split
 
 import (
 	"github.com/hajimehoshi/ebiten/v2"
-	"github.com/sedyh/mizu/examples/tilemap/helper/geo"
+	"github.com/seppedelanghe/mizu/examples/tilemap/helper/geo"
 )
 
 func Single(source *ebiten.Image, x, y, w, h int) *ebiten.Image {

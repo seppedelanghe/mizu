@@ -7,8 +7,8 @@ import (
 
 	"github.com/hajimehoshi/ebiten/v2"
 
-	"github.com/sedyh/mizu/examples/particles/scene"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/particles/scene"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 func main() {

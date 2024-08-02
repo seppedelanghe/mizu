@@ -1,6 +1,6 @@
 package entity
 
-import "github.com/sedyh/mizu/examples/platformer/component"
+import "github.com/seppedelanghe/mizu/examples/platformer/component"
 
 // The object that can fall.
 

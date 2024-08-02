@@ -2,11 +2,11 @@ package system
 
 import (
 	"github.com/hajimehoshi/ebiten/v2"
-	"github.com/sedyh/mizu/examples/tilemap/assets"
-	"github.com/sedyh/mizu/examples/tilemap/component"
-	"github.com/sedyh/mizu/examples/tilemap/helper/enum"
-	"github.com/sedyh/mizu/examples/tilemap/helper/tilemap"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/tilemap/assets"
+	"github.com/seppedelanghe/mizu/examples/tilemap/component"
+	"github.com/seppedelanghe/mizu/examples/tilemap/helper/enum"
+	"github.com/seppedelanghe/mizu/examples/tilemap/helper/tilemap"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type Building struct {

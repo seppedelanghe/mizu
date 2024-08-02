@@ -25,7 +25,7 @@ A popular benchmark made on Mizu.
 To run the example from sources do the following command:
 
 ```
-go run github.com/sedyh/mizu/examples/bunnymark@master
+go run github.com/seppedelanghe/mizu/examples/bunnymark@master
 ```
 <sub>Please remember that @master only works since Go 17.</sub>
 

@@ -1,4 +1,4 @@
-module github.com/sedyh/mizu
+module github.com/seppedelanghe/mizu
 
 go 1.20
 
@@ -6,6 +6,7 @@ require (
 	github.com/hajimehoshi/ebiten/v2 v2.5.0
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.17.0
+	github.com/seppedelanghe/mizu v1.0.4
 )
 
 require (

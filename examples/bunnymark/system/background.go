@@ -2,8 +2,8 @@ package system
 
 import (
 	"github.com/hajimehoshi/ebiten/v2"
-	"github.com/sedyh/mizu/examples/bunnymark/assets"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/bunnymark/assets"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type Background struct{}

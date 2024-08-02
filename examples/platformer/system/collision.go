@@ -3,11 +3,11 @@ package system
 import (
 	"sort"
 
-	"github.com/sedyh/mizu/examples/platformer/helper/enum"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/enum"
 
-	"github.com/sedyh/mizu/examples/platformer/component"
-	"github.com/sedyh/mizu/examples/platformer/helper/collision"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/platformer/component"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/collision"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type Collision struct {

@@ -1,11 +1,11 @@
-module github.com/sedyh/mizu/examples/bunnymark
+module github.com/seppedelanghe/mizu/examples/bunnymark
 
 go 1.17
 
 require (
 	github.com/hajimehoshi/ebiten/v2 v2.2.3
 	github.com/jaypipes/ghw v0.8.0
-	github.com/sedyh/mizu v1.0.4
+	github.com/seppedelanghe/mizu v1.0.4
 	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d
 )
 

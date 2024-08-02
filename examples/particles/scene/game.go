@@ -3,11 +3,11 @@ package scene
 import (
 	"time"
 
-	"github.com/sedyh/mizu/examples/particles/assets"
-	"github.com/sedyh/mizu/examples/particles/component"
-	"github.com/sedyh/mizu/examples/particles/entity"
-	"github.com/sedyh/mizu/examples/particles/system"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/particles/assets"
+	"github.com/seppedelanghe/mizu/examples/particles/component"
+	"github.com/seppedelanghe/mizu/examples/particles/entity"
+	"github.com/seppedelanghe/mizu/examples/particles/system"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type Game struct{}

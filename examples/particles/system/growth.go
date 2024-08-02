@@ -1,8 +1,8 @@
 package system
 
 import (
-	"github.com/sedyh/mizu/examples/particles/component"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/particles/component"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type Growth struct {

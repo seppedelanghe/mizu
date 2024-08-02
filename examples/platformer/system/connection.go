@@ -3,11 +3,11 @@ package system
 import (
 	"strconv"
 
-	"github.com/sedyh/mizu/examples/platformer/assets"
-	"github.com/sedyh/mizu/examples/platformer/component"
-	"github.com/sedyh/mizu/examples/platformer/helper/tilemap"
-	"github.com/sedyh/mizu/examples/platformer/helper/tileset"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/platformer/assets"
+	"github.com/seppedelanghe/mizu/examples/platformer/component"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/tilemap"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/tileset"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type Connection struct{}

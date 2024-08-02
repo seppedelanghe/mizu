@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/sedyh/mizu/examples/platformer/component"
-	"github.com/sedyh/mizu/examples/platformer/helper/enum"
+	"github.com/seppedelanghe/mizu/examples/platformer/component"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/enum"
 )
 
 // Reaction is the way to resolve the collision.

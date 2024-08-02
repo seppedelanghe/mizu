@@ -6,8 +6,8 @@ import (
 	"strconv"
 
 	"github.com/hajimehoshi/ebiten/v2"
-	"github.com/sedyh/mizu/examples/tilemap/helper/load"
-	"github.com/sedyh/mizu/examples/tilemap/helper/split"
+	"github.com/seppedelanghe/mizu/examples/tilemap/helper/load"
+	"github.com/seppedelanghe/mizu/examples/tilemap/helper/split"
 )
 
 // This is where the images and colors are loaded.

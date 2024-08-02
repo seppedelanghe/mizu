@@ -1,12 +1,12 @@
 package scene
 
 import (
-	"github.com/sedyh/mizu/examples/tilemap/assets"
-	"github.com/sedyh/mizu/examples/tilemap/component"
-	"github.com/sedyh/mizu/examples/tilemap/entity"
-	"github.com/sedyh/mizu/examples/tilemap/helper/random"
-	"github.com/sedyh/mizu/examples/tilemap/system"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/tilemap/assets"
+	"github.com/seppedelanghe/mizu/examples/tilemap/component"
+	"github.com/seppedelanghe/mizu/examples/tilemap/entity"
+	"github.com/seppedelanghe/mizu/examples/tilemap/helper/random"
+	"github.com/seppedelanghe/mizu/examples/tilemap/system"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type Game struct{}

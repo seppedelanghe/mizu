@@ -1,6 +1,6 @@
 package entity
 
-import "github.com/sedyh/mizu/examples/tilemap/component"
+import "github.com/seppedelanghe/mizu/examples/tilemap/component"
 
 // Tilemap size
 

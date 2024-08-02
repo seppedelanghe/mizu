@@ -1,6 +1,6 @@
 package tilemap
 
-import "github.com/sedyh/mizu/examples/platformer/helper/tileset"
+import "github.com/seppedelanghe/mizu/examples/platformer/helper/tileset"
 
 func Index(x, y, w int) int {
 	return y*w + x

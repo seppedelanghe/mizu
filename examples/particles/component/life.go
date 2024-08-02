@@ -1,7 +1,7 @@
 package component
 
 import (
-	"github.com/sedyh/mizu/examples/particles/helper"
+	"github.com/seppedelanghe/mizu/examples/particles/helper"
 )
 
 type Life struct {

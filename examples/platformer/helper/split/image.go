@@ -4,8 +4,8 @@ import (
 	"time"
 
 	"github.com/hajimehoshi/ebiten/v2"
-	"github.com/sedyh/mizu/examples/platformer/helper/geo"
-	"github.com/sedyh/mizu/examples/platformer/helper/graphics"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/geo"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/graphics"
 )
 
 // Single cuts one image from the spritesheet and mirrors it if necessary.

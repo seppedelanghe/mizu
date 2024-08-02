@@ -6,10 +6,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/sedyh/mizu/examples/platformer/helper/graphics"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/graphics"
 
-	"github.com/sedyh/mizu/examples/platformer/helper/load"
-	"github.com/sedyh/mizu/examples/platformer/helper/split"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/load"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/split"
 )
 
 // This is where the images, colors and levels are loaded.

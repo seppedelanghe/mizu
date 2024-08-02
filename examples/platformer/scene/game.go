@@ -1,14 +1,14 @@
 package scene
 
 import (
-	"github.com/sedyh/mizu/examples/platformer/assets"
-	"github.com/sedyh/mizu/examples/platformer/component"
-	"github.com/sedyh/mizu/examples/platformer/entity"
-	"github.com/sedyh/mizu/examples/platformer/helper/enum"
-	"github.com/sedyh/mizu/examples/platformer/helper/load"
-	"github.com/sedyh/mizu/examples/platformer/helper/tilemap"
-	"github.com/sedyh/mizu/examples/platformer/system"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/platformer/assets"
+	"github.com/seppedelanghe/mizu/examples/platformer/component"
+	"github.com/seppedelanghe/mizu/examples/platformer/entity"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/enum"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/load"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/tilemap"
+	"github.com/seppedelanghe/mizu/examples/platformer/system"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type Game struct{}

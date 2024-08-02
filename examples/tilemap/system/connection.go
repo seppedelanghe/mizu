@@ -3,11 +3,11 @@ package system
 import (
 	"strconv"
 
-	"github.com/sedyh/mizu/examples/tilemap/assets"
-	"github.com/sedyh/mizu/examples/tilemap/component"
-	"github.com/sedyh/mizu/examples/tilemap/helper/tilemap"
-	"github.com/sedyh/mizu/examples/tilemap/helper/tileset"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/tilemap/assets"
+	"github.com/seppedelanghe/mizu/examples/tilemap/component"
+	"github.com/seppedelanghe/mizu/examples/tilemap/helper/tilemap"
+	"github.com/seppedelanghe/mizu/examples/tilemap/helper/tileset"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type Connection struct{}

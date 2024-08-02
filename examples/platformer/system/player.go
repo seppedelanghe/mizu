@@ -2,13 +2,13 @@ package system
 
 import (
 	"github.com/hajimehoshi/ebiten/v2/inpututil"
-	"github.com/sedyh/mizu/examples/platformer/helper/name"
-	"github.com/sedyh/mizu/examples/platformer/helper/num"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/name"
+	"github.com/seppedelanghe/mizu/examples/platformer/helper/num"
 
 	"github.com/hajimehoshi/ebiten/v2"
-	"github.com/sedyh/mizu/examples/platformer/assets"
-	"github.com/sedyh/mizu/examples/platformer/component"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/platformer/assets"
+	"github.com/seppedelanghe/mizu/examples/platformer/component"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type Player struct{}

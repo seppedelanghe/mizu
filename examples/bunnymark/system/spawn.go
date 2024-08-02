@@ -6,10 +6,10 @@ import (
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/inpututil"
 
-	"github.com/sedyh/mizu/examples/bunnymark/component"
-	"github.com/sedyh/mizu/examples/bunnymark/entity"
-	"github.com/sedyh/mizu/examples/bunnymark/helper"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/bunnymark/component"
+	"github.com/seppedelanghe/mizu/examples/bunnymark/entity"
+	"github.com/seppedelanghe/mizu/examples/bunnymark/helper"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type Spawn struct {

@@ -1,8 +1,8 @@
 package system
 
 import (
-	"github.com/sedyh/mizu/examples/platformer/component"
-	"github.com/sedyh/mizu/pkg/engine"
+	"github.com/seppedelanghe/mizu/examples/platformer/component"
+	"github.com/seppedelanghe/mizu/pkg/engine"
 )
 
 type Gravity struct {

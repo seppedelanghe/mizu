@@ -1,6 +1,6 @@
 package entity
 
-import "github.com/sedyh/mizu/examples/particles/component"
+import "github.com/seppedelanghe/mizu/examples/particles/component"
 
 // An object that spawns particles every tick.
 
